@@ -1,3 +1,8 @@
 body {
-  background-color: #f490df
+  background-color: #f490df;
+}
+
+img{
+  width:250px;
+  height:225px;
 }
