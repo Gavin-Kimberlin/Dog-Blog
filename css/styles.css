@@ -1,9 +1,9 @@
 body {
-  background-color: #f490df;
+  font-family: 'Titillium Web', sans-serif;
+  color: #e29031;
+  background-color: #383b56;
 }
 
-img{
-  width:250px;
-  height:225px;
-  border: dashed #b70b16;
+img {
+  width: 550px;
 }

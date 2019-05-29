@@ -1,4 +1,13 @@
-body{
-  background-color: #1e2228;
-  color: white;
+body {
+  background-color: #60011b;
+  color: #d1bb19;
+  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Indie Flower', cursive;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #0375b2;
 }
